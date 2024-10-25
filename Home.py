@@ -17,6 +17,7 @@ st.sidebar.image( image, width=120 )
 st.sidebar.markdown('# Curry Company')
 st.sidebar.markdown('## Fastest Delivery in Town')
 st.sidebar.markdown("""___""")
+st.sidebar.markdown('## Powered by Luciano Zani')
 
 st.write( "# Curry Company Growth Dashboard")
 
