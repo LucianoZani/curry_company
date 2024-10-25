@@ -189,7 +189,7 @@ def clean_code( df1 ):
                    #Import Dataset
 #====================================================#
 
-df1 = pd.read_csv( r'C:\Users\lucia\Documents\python\repos\dataset\train.csv' )
+df1 = pd.read_csv( 'dataset/train.csv' )
 
 #====================================================#
                    #Limpando dos dados
