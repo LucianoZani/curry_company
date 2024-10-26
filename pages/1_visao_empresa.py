@@ -186,7 +186,7 @@ df1 = df1.loc[linhas_selecionadas, : ]
                #Layout Streamlit
 #====================================================#
 
-st.header('Marketplace - Visão Cliente')
+st.header('Marketplace - Visão Empresa')
 
 tab1, tab2, tab3 = st.tabs( ['Visão Gerencial', 'Visão Tática', 'Visão Geográfica'] )
 
